@@ -645,6 +645,20 @@
       [
         8
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/keycloak/keycloak/pull/33832": {
@@ -1285,6 +1299,20 @@
       [
         6
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/keycloak-greptile/pull/1": {
@@ -1798,6 +1826,17 @@
       ]
     ],
     "mra-claude": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "the-guard": [
       [
         0
       ],
@@ -2356,6 +2395,23 @@
       ],
       [
         6
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
       ]
     ]
   },
@@ -3242,6 +3298,26 @@
       [
         15
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/sentry-greptile/pull/1": {
@@ -3966,6 +4042,17 @@
       [
         2
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/grafana/grafana/pull/97529": {
@@ -4438,6 +4525,14 @@
       [
         4
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ]
     ]
   },
   "https://github.com/getsentry/sentry/pull/80528": {
@@ -4715,7 +4810,8 @@
       [
         6
       ]
-    ]
+    ],
+    "the-guard": []
   },
   "https://github.com/getsentry/sentry/pull/95633": {
     "baz": [
@@ -5237,6 +5333,23 @@
       ]
     ],
     "mra-claude": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ]
+    ],
+    "the-guard": [
       [
         0
       ],
@@ -6125,6 +6238,17 @@
       [
         8
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/sentry-greptile/pull/3": {
@@ -6895,6 +7019,20 @@
       [
         5
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/grafana/grafana/pull/103633": {
@@ -7367,6 +7505,17 @@
       ],
       [
         3
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
       ]
     ]
   },
@@ -7947,6 +8096,20 @@
       [
         5
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/grafana/grafana/pull/94942": {
@@ -8330,6 +8493,14 @@
         2,
         3,
         4
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
       ]
     ]
   },
@@ -9182,6 +9353,17 @@
       [
         4
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/grafana/grafana/pull/106778": {
@@ -9902,6 +10084,23 @@
       [
         5
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ]
     ]
   },
   "https://github.com/grafana/grafana/pull/107534": {
@@ -10251,6 +10450,14 @@
       ],
       [
         6
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
       ]
     ]
   },
@@ -11370,6 +11577,32 @@
       [
         7
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        7
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/discourse-graphite/pull/7": {
@@ -11996,6 +12229,23 @@
       ],
       [
         7
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
       ]
     ]
   },
@@ -12910,6 +13160,23 @@
       [
         4
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/discourse-graphite/pull/3": {
@@ -13502,6 +13769,17 @@
       [
         6
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/discourse-graphite/pull/5": {
@@ -13971,6 +14249,14 @@
       ],
       [
         3
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
       ]
     ]
   },
@@ -14462,6 +14748,17 @@
       ],
       [
         1
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
       ]
     ]
   },
@@ -15734,6 +16031,38 @@
       [
         13
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        7
+      ],
+      [
+        8
+      ],
+      [
+        9
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/discourse-graphite/pull/1": {
@@ -16414,6 +16743,23 @@
       ],
       [
         3
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
       ]
     ]
   },
@@ -17152,6 +17498,20 @@
       [
         4
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/calcom/cal.com/pull/8330": {
@@ -17821,6 +18181,20 @@
       [
         5
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/calcom/cal.com/pull/14943": {
@@ -18204,6 +18578,17 @@
       [
         1
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/calcom/cal.com/pull/22345": {
@@ -18567,6 +18952,14 @@
       ],
       [
         6
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
       ]
     ]
   },
@@ -19793,6 +20186,32 @@
       [
         4
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        7
+      ]
     ]
   },
   "https://github.com/calcom/cal.com/pull/7232": {
@@ -20548,6 +20967,20 @@
       ],
       [
         4
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
       ]
     ]
   },
@@ -21467,6 +21900,35 @@
       ],
       [
         4
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        7
+      ],
+      [
+        8
       ]
     ]
   },
@@ -22537,6 +22999,32 @@
       [
         11
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ],
+      [
+        6
+      ],
+      [
+        7
+      ]
     ]
   },
   "https://github.com/calcom/cal.com/pull/8087": {
@@ -23161,6 +23649,17 @@
       ],
       [
         4
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
       ]
     ]
   },
@@ -23810,6 +24309,20 @@
       [
         6
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/keycloak/keycloak/pull/36880": {
@@ -24401,6 +24914,26 @@
       [
         4
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ],
+      [
+        4
+      ],
+      [
+        5
+      ]
     ]
   },
   "https://github.com/keycloak/keycloak/pull/40940": {
@@ -24841,6 +25374,14 @@
       [
         7
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ]
     ]
   },
   "https://github.com/keycloak/keycloak/pull/32918": {
@@ -25199,6 +25740,20 @@
       ]
     ],
     "mra-claude": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
+    ],
+    "the-guard": [
       [
         0
       ],
@@ -25873,6 +26428,14 @@
       [
         4
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ]
     ]
   },
   "https://github.com/ai-code-review-evaluation/discourse-graphite/pull/2": {
@@ -26534,6 +27097,20 @@
       ],
       [
         5
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
       ]
     ]
   },
@@ -27367,6 +27944,20 @@
       [
         7
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/grafana/grafana/pull/80329": {
@@ -27944,6 +28535,17 @@
       ],
       [
         4
+      ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
       ]
     ]
   },
@@ -28665,6 +29267,20 @@
       [
         3
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ],
+      [
+        3
+      ]
     ]
   },
   "https://github.com/keycloak/keycloak/pull/38446": {
@@ -29235,6 +29851,17 @@
       [
         5
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/getsentry/sentry/pull/80168": {
@@ -29675,6 +30302,17 @@
       [
         5
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/getsentry/sentry/pull/77754": {
@@ -30053,6 +30691,17 @@
       [
         5
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/grafana/grafana/pull/90939": {
@@ -30264,6 +30913,11 @@
       ],
       [
         1
+      ]
+    ],
+    "the-guard": [
+      [
+        0
       ]
     ]
   },
@@ -30663,6 +31317,17 @@
         5,
         6
       ]
+    ],
+    "the-guard": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
     ]
   },
   "https://github.com/keycloak/keycloak/pull/36882": {
@@ -30951,6 +31616,11 @@
       ],
       [
         4
+      ]
+    ],
+    "the-guard": [
+      [
+        0
       ]
     ]
   },
@@ -31290,6 +31960,17 @@
       ]
     ],
     "mra-claude": [
+      [
+        0
+      ],
+      [
+        1
+      ],
+      [
+        2
+      ]
+    ],
+    "the-guard": [
       [
         0
       ],

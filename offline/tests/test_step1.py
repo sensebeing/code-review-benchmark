@@ -86,6 +86,34 @@ def test_fetch_review_comments(monkeypatch):
     ]
 
 
+def test_fetch_review_comments_the_guard_non_bot(monkeypatch):
+    human_user = {"login": "reviewer", "type": "User"}
+    responses = [
+        [
+            {
+                "path": "src/service.py",
+                "line": 42,
+                "body": "<!-- the-guard-review -->\n**[guard.single-source-of-truth]** `src/service.py:42`",
+                "created_at": "2026-11-12",
+                "user": human_user,
+            }
+        ],
+        [],
+        [],
+    ]
+
+    def fake_gh(_args):
+        return responses.pop(0)
+
+    monkeypatch.setattr(step1, "gh", fake_gh)
+
+    comments = step1.fetch_review_comments("org", "repo", 1, tool="the-guard")
+    assert len(comments) == 1
+    assert comments[0]["path"] == "src/service.py"
+    assert comments[0]["line"] == 42
+    assert "<!-- the-guard-review -->" in comments[0]["body"]
+
+
 def test_fetch_repo_data(monkeypatch):
     def stub_pr_metadata(_org, _repo, pr):
         return {"title": f"PR {pr}", "url": "https://github.com/org/repo/pull/1"}

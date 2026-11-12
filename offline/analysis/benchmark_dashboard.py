@@ -161,6 +161,7 @@ TOOL_DISPLAY_NAMES = {
     "qodo-extended-v2": "Qodo Extended",
     "macroscope": "Macroscope",
     "cubic-v2": "Cubic v2",
+    "the-guard": "the-guard",
 }
 
 TOOL_COLORS = {
@@ -191,6 +192,7 @@ TOOL_COLORS = {
     "qodo-extended-v2": "#6d28d9",
     "macroscope": "#0891b2",
     "cubic-v2": "#c026d3",
+    "the-guard": "#0f766e",
 }
 
 

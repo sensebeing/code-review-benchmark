@@ -44,7 +44,7 @@ Without shared evals for these tools, every company grades its own homework. You
 
 Each PR has curated golden comments (173 total) with severity labels (Low / Medium / High / Critical) and category tags (bug, security, concurrency, data, api, perf, test_gap, doc_defect, style, speculative). An LLM judge matches each tool's review against the golden comments using three judge models (Claude Opus 4.5, GPT-5.2, Claude Sonnet 4.5). Category-based scoring profiles (Strict / Core / All) control which issue types count toward the score, and F-beta weighting lets users prioritize recall over precision.
 
-**Tools evaluated**: Augment, Baz, Claude Code, CodeAnt, CodeRabbit, Cubic, Cursor Bugbot, Devin, Gemini, GitHub Copilot, GitLab Duo, Graphite, Greptile, KG, Kodus, Macroscope, Qodo, Sourcery, and more. Running a tool that isn't on the leaderboard takes an afternoon — fork the benchmark PRs, trigger the tool, run the pipeline. Publishing it alongside the others additionally requires meeting the [inclusion criteria](#inclusion-criteria).
+**Tools evaluated**: Augment, Baz, Claude Code, CodeAnt, CodeRabbit, Cubic, Cursor Bugbot, Devin, Gemini, GitHub Copilot, GitLab Duo, Graphite, Greptile, KG, Kodus, Macroscope, Qodo, Sourcery, the-guard, and more. Running a tool that isn't on the leaderboard takes an afternoon — fork the benchmark PRs, trigger the tool, run the pipeline. Publishing it alongside the others additionally requires meeting the [inclusion criteria](#inclusion-criteria).
 
 > **Known limitation**: Static datasets risk training data leakage — tools may have seen these PRs during training. That's why we also run the online benchmark.
 
