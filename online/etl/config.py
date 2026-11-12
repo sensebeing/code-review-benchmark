@@ -92,7 +92,7 @@ DEFAULT_CHATBOT_USERNAMES = [
     "bito-code-review[bot]",
     "macroscopeapp[bot]",
     "qodo-free-for-open-source-projects[bot]",
-    "the-guard[bot]",
+    "the-guard-reviewer[bot]",
 ]
 
 
